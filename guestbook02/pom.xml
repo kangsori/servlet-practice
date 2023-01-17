@@ -5,7 +5,7 @@
     <artifactId>servlet.practice</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>guestbook01</artifactId>
+  <artifactId>guestbook02</artifactId>
   <packaging>war</packaging>
   
   <properties>
@@ -36,7 +36,7 @@
   </dependencies>
   
   <build>
-	  <finalName>guestbook01</finalName>
+	  <finalName>guestbook02</finalName>
 	  <plugins>
 		  <plugin>
 			  <groupId>org.apache.maven.plugins</groupId>
