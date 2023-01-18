@@ -6,7 +6,6 @@
   <packaging>pom</packaging>
  
   <build>
-	  <finalName>emaillist01</finalName>
 	  <plugins>
 		  <plugin>
 			  <groupId>org.apache.maven.plugins</groupId>
