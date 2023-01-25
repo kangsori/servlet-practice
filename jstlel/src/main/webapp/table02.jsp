@@ -11,7 +11,6 @@
 <body>
 	<c:set var="row" value="${param.r }"/>
 	<c:set var="col" value="${param.c }"/>
-	
 	<c:if test="${empty row }">
 		<c:set var="row" value="3"/>
 	</c:if>
